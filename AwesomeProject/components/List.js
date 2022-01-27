@@ -12,7 +12,7 @@ const list = () => {
         },{
             name:'vicy Singh'
         },{
-            name:'Arsh Singh'
+            name: 'Arsh Singh '
         }
     ]
   return (
